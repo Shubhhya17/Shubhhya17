@@ -1,4 +1,4 @@
-<!-- 🔹 Simple Header -->
+<!-- 🔹 Header -->
 <h1 align="center">Hi 👋, I'm Shubham Pawar</h1>
 
 <p align="center">
@@ -67,6 +67,14 @@
 </td>
 </tr>
 </table>
+
+---
+
+## 🐍 Contribution Snake (Cool Animation)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
