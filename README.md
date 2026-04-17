@@ -55,21 +55,46 @@
 </table>
 
 ---
-
 ## 🚀 Insights
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="33%" align="center">
+<td align="center">
 
-👀 Profile Views  
+<h3>👀 Profile Views</h3>
 
-<img src="https://komarev.com/ghpvc/?username=Shubhhya17&label=Visitors&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Shubhhya17&label=Visitors&color=0e75b6&style=for-the-badge" />
 
 </td>
 
-<td width="33%" align="center">
+<td align="center">
+
+<h3>💻 Most Used Languages</h3>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhhya17&layout=compact&theme=tokyonight&hide_border=true" />
+
+</td>
+
+<td align="center">
+
+<h3>🔗 Connect</h3>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="65"/>
+</a>
+
+<br/><br/>
+
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
 
 💻 Most Used Languages  
 
