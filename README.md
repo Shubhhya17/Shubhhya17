@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,prisma,docker,tailwind,threejs,ts,git,github,vscode,postman,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,prisma,docker,tailwind,threejs,ts,git,github,vscode, scss,gsap,postman,figma&perline=8" />
   </a>
 </p>
 
@@ -69,11 +69,11 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/shubham-pawar1703)">
     <img src="https://img.shields.io/badge/LinkedIn-Link%20Start-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:your@email.com">
+  <a href="mailto:pawarshubh@email.com">
     <img src="https://img.shields.io/badge/Email-Send%20Packet-00F7FF?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </p>
