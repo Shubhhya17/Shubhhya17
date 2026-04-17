@@ -25,7 +25,16 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,git,github" />
+
+Frontend<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,css,html" /><br/><br/>
+
+Backend<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" /><br/><br/>
+
+Tools<br/>
+<img src="https://skillicons.dev/icons?i=figma,git,github,docker" />
+
 </p>
 
 ---
